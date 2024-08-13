@@ -6,8 +6,8 @@ Passionate Web Developer | Quick Learner | Problem Solver
 -->
 
 - 🔭 I'm on a journey to master web technologies and contribute to impactful projects.
-- 🌱 I’m currently learning Bootstrap and JavaScript.
-- 🤔 I’m looking for help with Web development projects using React.
+- 🌱 I’m currently learning JavaScript and node.js.
+- 🤔 I’m looking for help with Web development projects using React and node.js.
 - 💬 Ask me about UI/UX design
 - 📫 How to reach me: hemagowdham@gamil.com
 - 😄 Pronouns: She/Her
