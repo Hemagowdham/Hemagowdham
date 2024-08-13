@@ -5,13 +5,13 @@ Passionate Web Developer | Quick Learner | Problem Solver
 **Hemagowdham/Hemagowdham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🔭 I'm on a journey to master web technologies and contribute to impactful projects.
-🌱 I’m currently learning JavaScript and node.js.
-🤔 I’m looking for help with Web development projects using React and node.js.
-💬 Ask me about UI/UX design
-📫 How to reach me: hemagowdham@gamil.com
-😄 Pronouns: She/Her
-⚡ Fun fact: Love Laugh Live, 🎉LIVE🎉
+- 🔭 I'm on a journey to master web technologies and contribute to impactful projects.
+- 🌱 I’m currently learning JavaScript and node.js.
+- 🤔 I’m looking for help with Web development projects using React and node.js.
+- 💬 Ask me about UI/UX design
+- 📫 How to reach me: hemagowdham@gamil.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Love Laugh Live, 🎉LIVE🎉
 
 🎯 Goals for 2024
 - Contribute to open-source Front end projects
